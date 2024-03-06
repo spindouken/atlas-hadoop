@@ -1,7 +1,7 @@
 # atlas-hadoop
 
 - HADOOP DOCKER SET-UP ENVIRONMENT BY INCLUDING:
-    - Include xml files, start-up scripts in project local directory, and Dockerfile in project directory  (core-site.xml, hdfs-site.xml, hue.ini, mapred-site.xml, yarn-site.xml, ssh-config.sh, start-all.sh)
+    - Include xml files, start-up scripts in project local directory, and Dockerfile in project directory  (core-site.xml, hdfs-site.xml, hue.ini, mapred-site.xml, yarn-site.xml, ssh-config, start-all.sh)
     - build docker image from Dockerfile using:
     
     ```python
