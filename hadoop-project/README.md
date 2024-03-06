@@ -18,5 +18,5 @@
     
     To access the shell of your `hadoop3-dev` container:
     ```bash
-    docker exec -it python-mongo-dev /bin/bash
+    docker exec -it hadoop3-dev /bin/bash
     ```
