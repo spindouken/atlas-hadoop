@@ -4,5 +4,5 @@
 deletedir = __import__('5-deletedir').deletedir
 
 
-l = ["/Betty", "/Betty/Holberton"]
+l = ["/Betty/Holberton", "/Betty"]
 deletedir(l)
