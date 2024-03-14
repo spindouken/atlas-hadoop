@@ -22,7 +22,7 @@ for x, line in enumerate(sys.stdin):
         continue  # skip to printing id's data
 
     # print/consider the top x id values
-    if x <= 70000:
+    if x <= 14:
         print("{}\t{},{}".format(data[id_index], data[company_index], data[tyc_index]))
     else:
         break
